@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="i0000" x="1" y="1" width="151" height="243"/>
+	<SubTexture name="i20000" x="153" y="1" width="149" height="241"/>
+	<SubTexture name="i30000" x="303" y="1" width="149" height="241"/>
+	<SubTexture name="walk0000" x="1" y="245" width="143" height="239" frameX="-16" frameY="-6" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0001" x="1" y="245" width="143" height="239" frameX="-16" frameY="-6" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0002" x="1" y="245" width="143" height="239" frameX="-16" frameY="-6" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0003" x="1" y="245" width="143" height="239" frameX="-16" frameY="-6" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0004" x="145" y="245" width="192" height="239" frameX="0" frameY="0" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0005" x="145" y="245" width="192" height="239" frameX="0" frameY="0" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0006" x="145" y="245" width="192" height="239" frameX="0" frameY="0" frameWidth="192" frameHeight="245"/>
+	<SubTexture name="walk0007" x="145" y="245" width="192" height="239" frameX="0" frameY="0" frameWidth="192" frameHeight="245"/>
+</TextureAtlas>

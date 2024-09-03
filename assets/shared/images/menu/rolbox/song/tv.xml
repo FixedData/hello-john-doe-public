@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0000" x="1" y="1" width="157" height="202"/>
+	<SubTexture name="static0001" x="1" y="1" width="157" height="202"/>
+	<SubTexture name="static0002" x="159" y="1" width="157" height="202"/>
+	<SubTexture name="static0003" x="159" y="1" width="157" height="202"/>
+	<SubTexture name="static0004" x="317" y="1" width="157" height="202"/>
+	<SubTexture name="static0005" x="317" y="1" width="157" height="202"/>
+	<SubTexture name="tv0000" x="1" y="204" width="157" height="202"/>
+</TextureAtlas>

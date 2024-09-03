@@ -1,0 +1,37 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bloxpin",
+			"s",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"bloxpin-scary",
+			"s",
+			[
+				165,
+				0,
+				77
+			]
+		]
+		
+
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

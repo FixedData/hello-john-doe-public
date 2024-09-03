@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				100
+			],
+			"anim": "blue",
+			"fps": 24,
+			"name": "glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-39
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				57
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				26
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "pl"
+		},
+		{
+			"offsets": [
+				3,
+				65
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "pd"
+		},
+		{
+			"offsets": [
+				14,
+				162
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "pu"
+		},
+		{
+			"offsets": [
+				-50,
+				20
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "pr"
+		},
+		{
+			"offsets": [
+				-10,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pibby",
+			"loop": false,
+			"name": "ag"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/johndoe",
+	"position": [
+		170,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-160,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

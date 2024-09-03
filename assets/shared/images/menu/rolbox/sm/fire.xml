@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fire.png" width="2435" height="478">
+	<SubTexture name="fire0000" x="0" y="0" width="807" height="478" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0001" x="817" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0002" x="817" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0003" x="817" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0004" x="817" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0005" x="817" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0006" x="1631" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0007" x="1631" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0008" x="1631" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0009" x="1631" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0010" x="1631" y="0" width="804" height="475" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0011" x="0" y="0" width="807" height="478" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0012" x="0" y="0" width="807" height="478" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0013" x="0" y="0" width="807" height="478" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+	<SubTexture name="fire0014" x="0" y="0" width="807" height="478" frameX="-0" frameY="-0" frameWidth="807" frameHeight="478"/>
+</TextureAtlas>

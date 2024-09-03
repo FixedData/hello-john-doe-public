@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfbod.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="walk0000" x="1" y="1" width="296" height="250" frameX="0" frameY="-6" frameWidth="296" frameHeight="256"/>
+	<SubTexture name="walk0001" x="1" y="1" width="296" height="250" frameX="0" frameY="-6" frameWidth="296" frameHeight="256"/>
+	<SubTexture name="walk0002" x="1" y="252" width="229" height="256" frameX="-30" frameY="0" frameWidth="296" frameHeight="256"/>
+	<SubTexture name="walk0003" x="1" y="252" width="229" height="256" frameX="-30" frameY="0" frameWidth="296" frameHeight="256"/>
+</TextureAtlas>

@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				24
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				124
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				145
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "ok",
+			"indices": [],
+			"name": "t"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "bye",
+			"fps": 18,
+			"name": "b",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/ilosttheoriginalstuff",
+	"position": [
+		110,
+		320
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-180,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

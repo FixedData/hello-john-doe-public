@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				100
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				106
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				41
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				185
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				68
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				54
+			],
+			"loop": true,
+			"fps": 17,
+			"anim": "transition",
+			"indices": [],
+			"name": "t"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				96
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "au",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bloxworld",
+	"position": [
+		80,
+		350
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-140,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "i"
+		},
+		{
+			"offsets": [
+				39,
+				5
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				16,
+				-7
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d0"
+		},
+		{
+			"offsets": [
+				0,
+				17
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				-12,
+				-9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "m"
+		},
+		{
+			"offsets": [
+				16,
+				36
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "hey",
+			"indices": [],
+			"name": "h"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				24
+			],
+			"anim": "struck",
+			"fps": 18,
+			"name": "death instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/boyfriend/rbf",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

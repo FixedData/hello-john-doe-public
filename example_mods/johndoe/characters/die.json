@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blue",
+			"indices": [],
+			"name": "glitch"
+		},
+		{
+			"offsets": [
+				59,
+				-39
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				-22,
+				40
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d"
+		},
+		{
+			"offsets": [
+				-7,
+				57
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				-65,
+				-45
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				26
+			],
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "pl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				65
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "pd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				162
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "pu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 20,
+			"name": "pr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				100
+			],
+			"anim": "pibby",
+			"fps": 24,
+			"name": "ag",
+			"indices": []
+		},
+		{
+			"offsets": [
+				144,
+				83
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "die",
+			"indices": [],
+			"name": "ending"
+		},
+		{
+			"offsets": [
+				144,
+				83
+			],
+			"indices": [
+				0,
+				0
+			],
+			"fps": 18,
+			"anim": "idle",
+			"loop": true,
+			"name": "ending"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/diedoe",
+	"position": [
+		170,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-160,
+		-40
+	],
+	"sing_duration": 9.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

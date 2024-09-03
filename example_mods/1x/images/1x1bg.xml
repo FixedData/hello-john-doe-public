@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="1x1bg.png" width="1449" height="7140">
+	<SubTexture name="bgbf0000" x="1" y="1" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0001" x="1" y="1023" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0002" x="1" y="2045" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0003" x="1" y="3067" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0004" x="1" y="4089" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0005" x="1" y="5111" width="1447" height="1009" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgbf0006" x="1" y="6130" width="1447" height="1009" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0000" x="1" y="6130" width="1447" height="1009" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0001" x="1" y="5111" width="1447" height="1009" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0002" x="1" y="4089" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0003" x="1" y="3067" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0004" x="1" y="2045" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0005" x="1" y="1023" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+	<SubTexture name="bgdad0006" x="1" y="1" width="1447" height="1012" frameX="-0" frameY="-0" frameWidth="1449" frameHeight="1012"/>
+</TextureAtlas>

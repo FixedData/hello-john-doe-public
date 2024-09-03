@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ok.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ok0000" x="1" y="1" width="2077" height="233" frameX="0" frameY="-9" frameWidth="2077" frameHeight="253"/>
+	<SubTexture name="ok0001" x="1" y="1" width="2077" height="233" frameX="0" frameY="-9" frameWidth="2077" frameHeight="253"/>
+	<SubTexture name="ok0002" x="1" y="235" width="2075" height="253" frameX="0" frameY="0" frameWidth="2077" frameHeight="253"/>
+	<SubTexture name="ok0003" x="1" y="235" width="2075" height="253" frameX="0" frameY="0" frameWidth="2077" frameHeight="253"/>
+</TextureAtlas>

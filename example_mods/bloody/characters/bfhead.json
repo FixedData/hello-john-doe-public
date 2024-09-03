@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				32
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "woah",
+			"indices": [],
+			"name": "what"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bfhead",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

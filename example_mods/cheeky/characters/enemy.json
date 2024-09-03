@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				120
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": true,
+			"name": "enemy"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/enemy",
+	"position": [
+		170,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

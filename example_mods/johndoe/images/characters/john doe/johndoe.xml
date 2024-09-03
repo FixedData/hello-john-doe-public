@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="johndoe.png" width="1680" height="1485">
+	<SubTexture name="aglitch0000" x="1405" y="852" width="253" height="196" frameX="-0" frameY="-198" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0001" x="1405" y="852" width="253" height="196" frameX="-0" frameY="-198" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0002" x="1" y="465" width="391" height="217" rotated="true" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0003" x="1" y="465" width="391" height="217" rotated="true" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0004" x="1" y="465" width="391" height="217" rotated="true" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0005" x="402" y="443" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0006" x="402" y="443" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0007" x="402" y="443" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0008" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0009" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0010" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0011" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0012" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0013" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0014" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0015" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0016" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0017" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0018" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0019" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0020" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0021" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0022" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0023" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0024" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0025" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0026" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0027" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0028" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0029" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0030" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0031" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0032" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0033" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0034" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0035" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0036" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0037" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0038" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0039" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0040" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0041" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0042" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0043" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0044" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0045" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0046" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0047" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0048" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0049" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0050" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0051" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0052" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0053" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0054" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0055" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0056" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0057" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0058" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0059" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0060" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0061" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0062" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0063" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0064" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0065" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0066" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0067" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0068" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0069" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0070" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0071" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0072" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0073" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0074" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0075" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0076" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0077" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0078" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0079" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0080" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0081" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0082" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0083" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0084" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0085" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0086" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0087" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0088" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0089" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0090" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="aglitch0091" x="1" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="d0000" x="355" y="942" width="332" height="224" rotated="true" frameX="-4" frameY="-0" frameWidth="239" frameHeight="332"/>
+	<SubTexture name="d0001" x="355" y="942" width="332" height="224" rotated="true" frameX="-4" frameY="-0" frameWidth="239" frameHeight="332"/>
+	<SubTexture name="d0002" x="1" y="1245" width="319" height="239" rotated="true" frameX="-0" frameY="-11" frameWidth="239" frameHeight="332"/>
+	<SubTexture name="d0003" x="1" y="1245" width="319" height="239" rotated="true" frameX="-0" frameY="-11" frameWidth="239" frameHeight="332"/>
+	<SubTexture name="glitch0000" x="1217" y="1207" width="196" height="253" rotated="true" frameX="-0" frameY="-198" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0001" x="1217" y="1207" width="196" height="253" rotated="true" frameX="-0" frameY="-198" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0002" x="640" y="1" width="217" height="391" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0003" x="640" y="1" width="217" height="391" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0004" x="640" y="1" width="217" height="391" frameX="-6" frameY="-0" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0005" x="737" y="683" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0006" x="737" y="683" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0007" x="737" y="683" width="354" height="230" rotated="true" frameX="-2" frameY="-37" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0008" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0009" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0010" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0011" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0012" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0013" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0014" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0015" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0016" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0017" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0018" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0019" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0020" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0021" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0022" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0023" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0024" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0025" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0026" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0027" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0028" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0029" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0030" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0031" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0032" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0033" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0034" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0035" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0036" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0037" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0038" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0039" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0040" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0041" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0042" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0043" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0044" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0045" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0046" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0047" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0048" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0049" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0050" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0051" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0052" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0053" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0054" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0055" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0056" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0057" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0058" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0059" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0060" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0061" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0062" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0063" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0064" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0065" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0066" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0067" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0068" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0069" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0070" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0071" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0072" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0073" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0074" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0075" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0076" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0077" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0078" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0079" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0080" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0081" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0082" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0083" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0084" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0085" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0086" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0087" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0088" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0089" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0090" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="glitch0091" x="369" y="692" width="358" height="240" rotated="true" frameX="-0" frameY="-32" frameWidth="253" frameHeight="394"/>
+	<SubTexture name="i0000" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0001" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0002" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0003" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0004" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0005" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0006" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0007" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0008" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0009" x="1101" y="668" width="294" height="241" rotated="true" frameX="-0" frameY="-0" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0010" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0011" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0012" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0013" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0014" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0015" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0016" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0017" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0018" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="i0019" x="919" y="1207" width="288" height="229" rotated="true" frameX="-7" frameY="-2" frameWidth="241" frameHeight="294"/>
+	<SubTexture name="l0000" x="355" y="1176" width="247" height="297" rotated="true" frameX="-0" frameY="-5" frameWidth="298" frameHeight="252"/>
+	<SubTexture name="l0001" x="355" y="1176" width="247" height="297" rotated="true" frameX="-0" frameY="-5" frameWidth="298" frameHeight="252"/>
+	<SubTexture name="l0002" x="1414" y="335" width="265" height="251" frameX="-20" frameY="-0" frameWidth="298" frameHeight="252"/>
+	<SubTexture name="l0003" x="1414" y="335" width="265" height="251" frameX="-20" frameY="-0" frameWidth="298" frameHeight="252"/>
+	<SubTexture name="pd0000" x="1" y="942" width="344" height="293" rotated="true" frameX="-0" frameY="-19" frameWidth="293" frameHeight="377"/>
+	<SubTexture name="pd0001" x="1" y="942" width="344" height="293" rotated="true" frameX="-0" frameY="-19" frameWidth="293" frameHeight="377"/>
+	<SubTexture name="pd0002" x="867" y="1" width="281" height="358" frameX="-0" frameY="-0" frameWidth="293" frameHeight="377"/>
+	<SubTexture name="pd0003" x="867" y="1" width="281" height="358" frameX="-0" frameY="-0" frameWidth="293" frameHeight="377"/>
+	<SubTexture name="pl0000" x="697" y="942" width="324" height="255" rotated="true" frameX="-0" frameY="-0" frameWidth="261" frameHeight="341"/>
+	<SubTexture name="pl0001" x="697" y="942" width="324" height="255" rotated="true" frameX="-0" frameY="-0" frameWidth="261" frameHeight="341"/>
+	<SubTexture name="pl0002" x="612" y="1207" width="297" height="252" rotated="true" frameX="-9" frameY="-24" frameWidth="261" frameHeight="341"/>
+	<SubTexture name="pl0003" x="612" y="1207" width="297" height="252" rotated="true" frameX="-9" frameY="-24" frameWidth="261" frameHeight="341"/>
+	<SubTexture name="pr0000" x="1031" y="923" width="321" height="274" rotated="true" frameX="-13" frameY="-2" frameWidth="287" frameHeight="324"/>
+	<SubTexture name="pr0001" x="1031" y="923" width="321" height="274" rotated="true" frameX="-13" frameY="-2" frameWidth="287" frameHeight="324"/>
+	<SubTexture name="pr0002" x="1158" y="1" width="260" height="324" frameX="-0" frameY="-0" frameWidth="287" frameHeight="324"/>
+	<SubTexture name="pr0003" x="1158" y="1" width="260" height="324" frameX="-0" frameY="-0" frameWidth="287" frameHeight="324"/>
+	<SubTexture name="pu0000" x="315" y="1" width="315" height="432" frameX="-0" frameY="-20" frameWidth="315" frameHeight="455"/>
+	<SubTexture name="pu0001" x="315" y="1" width="315" height="432" frameX="-0" frameY="-20" frameWidth="315" frameHeight="455"/>
+	<SubTexture name="pu0002" x="1" y="1" width="304" height="454" frameX="-0" frameY="-0" frameWidth="315" frameHeight="455"/>
+	<SubTexture name="pu0003" x="1" y="1" width="304" height="454" frameX="-0" frameY="-0" frameWidth="315" frameHeight="455"/>
+	<SubTexture name="r0000" x="1414" y="596" width="260" height="246" frameX="-1" frameY="-11" frameWidth="261" frameHeight="257"/>
+	<SubTexture name="r0001" x="1414" y="596" width="260" height="246" frameX="-1" frameY="-11" frameWidth="261" frameHeight="257"/>
+	<SubTexture name="r0002" x="1428" y="1" width="244" height="256" frameX="-0" frameY="-0" frameWidth="261" frameHeight="257"/>
+	<SubTexture name="r0003" x="1428" y="1" width="244" height="256" frameX="-0" frameY="-0" frameWidth="261" frameHeight="257"/>
+	<SubTexture name="u0000" x="766" y="402" width="347" height="222" rotated="true" frameX="-17" frameY="-0" frameWidth="246" frameHeight="350"/>
+	<SubTexture name="u0001" x="766" y="402" width="347" height="222" rotated="true" frameX="-17" frameY="-0" frameWidth="246" frameHeight="350"/>
+	<SubTexture name="u0002" x="1158" y="335" width="246" height="323" frameX="-0" frameY="-27" frameWidth="246" frameHeight="350"/>
+	<SubTexture name="u0003" x="1158" y="335" width="246" height="323" frameX="-0" frameY="-27" frameWidth="246" frameHeight="350"/>
+</TextureAtlas>

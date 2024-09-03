@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				54
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				16
+			],
+			"anim": "monster",
+			"fps": 16,
+			"name": "m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": [
+				1,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"offsets": [
+				25,
+				15
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "boo",
+			"loop": false,
+			"name": "b"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/guest666/guest",
+	"position": [
+		170,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

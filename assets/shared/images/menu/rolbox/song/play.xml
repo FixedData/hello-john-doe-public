@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="play.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pidle0000" x="1" y="1" width="61" height="55"/>
+	<SubTexture name="ppress0000" x="63" y="1" width="57" height="51"/>
+</TextureAtlas>

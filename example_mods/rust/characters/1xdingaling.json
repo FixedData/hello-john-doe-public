@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				67
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "i"
+		},
+		{
+			"offsets": [
+				231,
+				33
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				119,
+				53
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d"
+		},
+		{
+			"offsets": [
+				171,
+				163
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				-80,
+				67
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				42,
+				54
+			],
+			"anim": "transition",
+			"fps": 17,
+			"name": "t",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				96
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "au"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/1xohio",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-90,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

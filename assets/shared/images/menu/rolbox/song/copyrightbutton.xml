@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="copyrightbutton.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="c0000" x="1" y="1" width="41" height="37"/>
+	<SubTexture name="nc0000" x="43" y="1" width="48" height="38"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doors.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="closed0000" x="1" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0000" x="1" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0001" x="1" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0002" x="249" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0003" x="249" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0004" x="497" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0005" x="497" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0006" x="745" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0007" x="745" y="1" width="247" height="241"/>
+	<SubTexture name="dooranim0008" x="1" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0009" x="1" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0010" x="249" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0011" x="249" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0012" x="497" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0013" x="497" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0014" x="497" y="243" width="247" height="241"/>
+	<SubTexture name="dooranim0015" x="497" y="243" width="247" height="241"/>
+	<SubTexture name="open0000" x="745" y="243" width="247" height="241"/>
+</TextureAtlas>

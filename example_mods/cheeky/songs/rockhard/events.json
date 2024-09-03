@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				64285.7142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trans"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				78095.2380952382,
+				[
+					[
+						"Change Character",
+						"0",
+						"mirrorman"
+					],
+					[
+						"Change Character",
+						"dad",
+						"enemy"
+					],
+					[
+						"",
+						"penis",
+						""
+					]
+				]
+			],
+			[
+				90376.4880952382,
+				[
+					[
+						"Play Animation",
+						"oh",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

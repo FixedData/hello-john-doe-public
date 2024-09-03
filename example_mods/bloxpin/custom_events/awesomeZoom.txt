@@ -1,0 +1,2 @@
+value1: Zoom Amount, Zoom Time, put stuff here if u want the zoom to stay
+value2: ease type

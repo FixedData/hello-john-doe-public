@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				55
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				96
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				54
+			],
+			"anim": "trans2",
+			"fps": 20,
+			"name": "trans2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				54
+			],
+			"anim": "trans3",
+			"fps": 20,
+			"name": "trans2",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				6,
+				5,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				176
+			],
+			"anim": "trans5",
+			"fps": 20,
+			"name": "trans5",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				95
+			],
+			"anim": "trans4",
+			"fps": 20,
+			"name": "trans4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				54
+			],
+			"anim": "transition",
+			"fps": 17,
+			"name": "transition",
+			"indices": []
+		},
+		{
+			"offsets": [
+				75,
+				25
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "al0"
+		},
+		{
+			"offsets": [
+				3,
+				-34
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "ad0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/rust",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

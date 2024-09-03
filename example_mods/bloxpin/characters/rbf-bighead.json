@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				51,
+				61
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				66
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				51
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "d0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				64
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				58
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 18,
+			"name": "m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				58
+			],
+			"anim": "singUPmiss",
+			"fps": 18,
+			"name": "m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				58
+			],
+			"anim": "singDOWNmiss",
+			"fps": 18,
+			"name": "m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				58
+			],
+			"anim": "singLEFTmiss",
+			"fps": 18,
+			"name": "m",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bigfriend",
+	"position": [
+		100,
+		340
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
