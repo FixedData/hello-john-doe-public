@@ -41,10 +41,10 @@
       "version": null
     },
     {
-      "name": "SScript",
-      "type": "haxelib",
-      "version": null
-    },
+		"name": "tjson",
+		"type": "haxelib",
+		"version": null
+	},
     {
       "name": "hxcpp-debug-server",
       "type": "haxelib",
@@ -52,6 +52,11 @@
     },
     {
       "name": "tjson",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxvlc",
       "type": "haxelib",
       "version": null
     },

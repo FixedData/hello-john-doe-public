@@ -21,6 +21,12 @@ import options.OptionsState;
 
 //this a mess
 
+typedef PlayMenuEntry = {
+	var modDir:String; // auto defines on custom songs
+	var song:String;
+	var ?lockReqs:Array<String>;
+}
+
 class PlayMenu extends MusicBeatSubstate
 {
 	public static final hiddenTexts = ['nuhh uh', 'licky lee', 'well this is a little secret haha', 'i just lost my dawggg', 'dingalingaling', 'rofl copter', 'loltastic!', 'food more food!','okwell i cant fucking do thius anymore what the fuck is wrong with this god damn fucking mod adn funky is being a fuckingf annoying little bitch in vc asnd crying about every little god damned thing', 'dinalingaling', 'tophat guy', 'gf with a big butt', 'well... i think fnf gf is bad', 'ok well u have to beat the other sons', 'locked haha', 'penis', 'chubby heros', 'funktastic 2', 'slenderman', 'funny minion gif', 'goofy ahh mod who gets it', '???', 'ego monster', 'dingaling2', 'john doe', 'wanna see my powers', 'follow infry', 'DINGALING DEMON', 'hotbox central', 'wello k', 'ur never gonna fucking see me again after this please know i love you ok?', 'hawk tuah'];
@@ -29,8 +35,8 @@ class PlayMenu extends MusicBeatSubstate
 	public static final completeTexts = ['cmm plete', 'd one' , 'goe goe', 'goodbye', 'complete', 'have fun', 'thanks data', 'woah ohoh', 'lets get funkin!', 'bye', 'tophat guy', 'lets play'];
 
 
-	//hardcoded weekdata //could of actually been the meta instead of anon but whatever
-	static final weekShit:Array<{modDir:String,song:String,lockReqs:Array<String>}> = [
+	//hardcoded weekdata //could of actually been the meta instead of anon but whatever //jk its not hardcoded anymore
+	static final weekShit:Array<PlayMenuEntry> = [
 		//main songs
 		{modDir: 'johndoe', song: 'johndoe',lockReqs: []},
 		{modDir: 'devilish', song: 'devilish',lockReqs: []},
@@ -150,21 +156,30 @@ class PlayMenu extends MusicBeatSubstate
 		return path + '/' + song.substr(0,song.length-4);
 	}
 
+	inline function pushEntry(entry:PlayMenuEntry) {
+		songs.push({
+			songName: entry.song,
+			week: weekShit.length,
+			modFolder: entry.modDir,
+			lockReqs: entry.lockReqs ?? [],
+		});
+	}
 
 	function generateList() {
 
 		// WeekData.reloadWeekFiles(false);
 
-		for (i in 0...weekShit.length) {
-			var data:RobloxMeta = {
-				songName: weekShit[i].song,
-				week: i,
-				modFolder: weekShit[i].modDir,
-				lockReqs: weekShit[i].lockReqs
-				
+		// keeping hardcoded friends cause of ordering and such
+		for (entry in weekShit)
+			pushEntry(entry);
+		
+		for (mod in Mods.getModDirectories()) {
+			final path = Paths.mods('$mod/entry.json');
+			if (FileSystem.exists(path)) {
+				final entry:PlayMenuEntry = cast tjson.TJSON.parse(File.getContent(path).trim());
+				entry.modDir = mod;
+				pushEntry(entry);
 			}
-
-			songs.push(data);
 		}
 		//Mods.loadTopMod();
 	}
@@ -502,7 +517,7 @@ class PlayMenu extends MusicBeatSubstate
 		{
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			selectedSomethin = false;
-			update(FlxG.elapsed);
+			trace('error loading song $e');
 			return;
 		}
 		killControls();

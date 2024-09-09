@@ -92,12 +92,10 @@
 
 	<!-- _______________________________ Libraries ______________________________ -->
 
-	<haxelib name="flixel" version="5.8.0"/>
-	<haxelib name="flixel-ui" version="2.6.1" />
-	<haxelib name="flixel-addons" version="3.2.2"/>
+	<haxelib name="flixel" />
+	<haxelib name="flixel-ui" />
+	<haxelib name="flixel-addons"/>
 	<haxelib name="tjson" />
-	<haxelib name="compiletime" />
-	<haxelib name="flixel-screenshot-plugin"/>
 	<!--Psych stuff needed-->
 	<haxelib name="linc_luajit" if="LUA_ALLOWED"/>
 	<haxelib name="SScript" if="HSCRIPT_ALLOWED" version="8.1.6"/>
